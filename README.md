@@ -4,7 +4,7 @@ This is the official repository for the KnotFold, developed by [Genentech](https
 
 ## Testing KnotFold
 
-The KnotFold functionality can be tested using this [Colab Notebook](https://github.com/genentech/knotfold/blob/main/notebooks/KnotFold.ipynb) 
+The KnotFold functionality can be tested using this [Colab Notebook](https://colab.research.google.com/github/genentech/knotfold/blob/main/notebooks/KnotFold.ipynb)
 
 ## Using KnotFold locally
 

@@ -303,7 +303,7 @@ if __name__ == "__main__":
         "--num_preds_per_model", "-n", type=int, help="Number of preds per model", default=5,
     )
     parser.add_argument(
-        "--aa_option", "-a", type=str, help="option for replacment of aa ['all', 'hydrophobic', 'small']", default='hydrophobic',
+        "--aa_option", "-a", type=str, help="option for replacment of aa ['all', 'hydrophobic', 'small']", default='all',
     )
     parser.add_argument(
         "--mutation_option", "-m", type=str, help="option for mutation introduction ['breakN', 'Nalignments', 'breakN+1']", default='breakN',
